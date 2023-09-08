@@ -9,24 +9,24 @@ The message intervals were observed and hardcoded into the `.py` file. The time 
 
 The plots generated were as follows:
 
-### Line Frequency
+## Line Frequency
 
 ![](https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/LineFrequency.png)
 
-### Exponential Distribution
+## Exponential Distribution
 
 ![](https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/Exponential.png)
 
-### Normal Distribution
+## Normal Distribution
 
 ![](https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/NormalDistribution.png)
 
 
-### Normal Distribution in +X-Axis
+## Normal Distribution in +X-Axis
 
 ![](https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/NormalPDF.png)
 
-### Truncated Normal Distribution
+## Truncated Normal Distribution
 
 ![](https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/TruncatedNormal.png)
 
