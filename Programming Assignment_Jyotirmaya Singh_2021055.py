@@ -123,6 +123,7 @@ def plot_line():
     
     pl.xlabel("Time Interval (in min)")
     pl.ylabel("Relative Frequency")
+    pl.title("Line Frequency")
     pl.plot(list(dict_freq.keys()),list(dict_freq.values()),marker='o',markersize=4,color='b')
     #pl.plot(list(dict_freq.keys()),list(dict_freq.values()),'b',linewidth=2)
     #pl.plot(L,L2)
@@ -134,6 +135,7 @@ def plot_exp():
     x=np.linspace(0,70,1000)
     pl.xlabel("Time Interval (in min)")
     pl.ylabel("fx")
+    pl.title("Exponential Distribution")
     pl.plot(x,expon.pdf(x,loc=0,scale=final_mean),color='g')
     pl.show()
 
