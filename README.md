@@ -11,22 +11,22 @@ The plots generated were as follows:
 
 ### Line Frequency
 
-![]([Images/LineFrequency.jpg](https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/LineFrequency.png))
+![](https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/LineFrequency.png)
 
-### Exponential
+### Exponential Distribution
 
-![]([Images/Exponential.jpg](https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/Exponential.png))
+![](https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/Exponential.png)
 
 ### Normal Distribution
 
-![]([Images/NormalDistribution.jpg](https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/NormalDistribution.png))
+![](https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/NormalDistribution.png)
 
 
-### Normal PDF in +X-Axis
+### Normal Distribution in +X-Axis
 
-![]([Images/NormalPDF.jpg](https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/NormalPDF.png))
+![](https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/NormalPDF.png)
 
-### Truncated Normal PDF
+### Truncated Normal Distribution
 
-![]([Images/TruncatedNormal.jpg](https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/TruncatedNormal.png)https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/TruncatedNormal.png)
+![](https://github.com/JyotirS420/Programming-Assignment-Probability/blob/main/Images/TruncatedNormal.png)
 
