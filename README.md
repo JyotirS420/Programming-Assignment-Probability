@@ -13,20 +13,20 @@ The plots generated were as follows:
 
 ![](Images/LineFrequency.jpg)
 
-### Line Frequency
+### Exponential
 
 ![](Images/Exponential.jpg)
 
-### Line Frequency
+### Normal Distribution
 
 ![](Images/NormalDistribution.jpg)
 
 
-### Line Frequency
+### Normal PDF in +X-Axis
 
 ![](Images/NormalPDF.jpg)
 
-### Line Frequency
+### Truncated Normal PDF
 
 ![](Images/TruncatedNormal.jpg)
 
